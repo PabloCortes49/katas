@@ -2,8 +2,20 @@
 // sintaxis abreviada de las arrow functions
 
 // 👇🏻 Crea aquí tu función
+    
+    }
 
-// 👆🏻
+    (a,b) =>a * b 
+    
+    let a = 1
+    let b = 1
+    () => a * b
+
+
+
+
+
+    // 👆🏻
 
 const value1 = multiply(1, 1);
 const value2 = multiply(2, 2);
