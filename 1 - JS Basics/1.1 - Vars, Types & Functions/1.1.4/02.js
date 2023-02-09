@@ -3,7 +3,7 @@
 
 // 👇🏻 Crea aquí tu función
     
-    }
+
 
     (a,b) =>a * b 
     
