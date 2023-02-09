@@ -5,9 +5,10 @@ const sayHi = function() {
 };
 
 // 👇🏻 Invoca la función aquí
-function (sayHi){
-  console.log('Hi');
+function logHi(){
+  console.log('Hi!');
 }
+logHi();
 // 👆🏻
 
 // ✅  => Hi!

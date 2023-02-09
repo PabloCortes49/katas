@@ -9,9 +9,9 @@ x1 > 5 // false;
 x2 > 5 // true;
 
 // 👇🏻 Tendrás que almacenar el valor de la comparación aquí modificando estas líneas
-const x1>5 = false;
-const x2>5 = true;
+const x1 > 5 === false;
+const x2 > 5 === true;
 // 👆🏻
 
 console.log(x1Comparation, x2Comparation);
-console.log(x1!>5, x2>7)
+console.log(x1 !> 5, x2 > 5)

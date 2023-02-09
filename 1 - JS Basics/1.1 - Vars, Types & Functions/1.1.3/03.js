@@ -1,6 +1,6 @@
 // Crea una función que devuelva el número negativo del parámetro
 function inverse(a){
-    const resultado=-a
+    const resultado=-a;
     return resultado;
 }
 
